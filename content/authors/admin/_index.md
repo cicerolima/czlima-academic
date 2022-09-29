@@ -3,8 +3,8 @@
 title: Cicero Lima
 
 # Full name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Cicero
+last_name: Lima
 
 # Is this the primary user of the site?
 superuser: true
@@ -32,15 +32,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: D.Sc. in Applied Economics
-  institution: Universidade Federal de Vicosa, Brazil
-  year: 2017
-- course: M.Sc. in Applied Economics  
-  institution: Universidade Federal de Pelotas, Brazil
-  year: 2011
-- course: B.Sc. in Economics
-  institution: Universidade Federal do Rio Grande, Brazil
-  year: 2007
+    - course: D.Sc. in Applied Economics
+    institution: Universidade Federal de Viçosa, Brazil
+    year: 2017
+  - course: M.Sc. in Applied Economics  
+    institution: Universidade Federal de Pelotas, Brazil
+    year: 2011
+  - course: B.Sc. in Economics
+    institution: Universidade Federal do Rio Grande, Brazil
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
