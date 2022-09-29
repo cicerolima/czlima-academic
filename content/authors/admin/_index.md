@@ -33,7 +33,7 @@ interests:
 education:
   courses:
   - course: D.Sc. in Applied Economics
-  institution: Universidade Federal de Viçosa, Brazil
+  institution: Universidade Federal de Vicosa, Brazil
   year: 2017
 - course: M.Sc. in Applied Economics  
   institution: Universidade Federal de Pelotas, Brazil
