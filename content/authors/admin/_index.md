@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Cicero Lima
 
 # Full name (for SEO)
 first_name: Nelson
@@ -10,34 +10,37 @@ last_name: Bighetti
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sao Paulo School of Economics - FGV-EESP
+    url: https://eesp.fgv.br/centros/observatorios/bioeconomia
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Agricultural economics
+  - Computable general equilibrium models
+  - Land-use and land-use changes
+  - Heat stress and climate change
+  - GHG emissions
+  - Biofuels pathways
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: D.Sc. in Applied Economics
+  institution: Universidade Federal de Viçosa, Brazil
+  year: 2017
+- course: M.Sc. in Applied Economics  
+  institution: Universidade Federal de Pelotas, Brazil
+  year: 2011
+- course: B.Sc. in Economics
+  institution: Universidade Federal do Rio Grande, Brazil
+  year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,35 +50,36 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap  # OR `google-scholar`
+    icon_pack: fas  # OR `ai`
+    link: https://scholar.google.com/citations?user=TIZbeD8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cicerolima
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: //www.linkedin.com/in/czlima/
+  - icon: researchgate
+    icon_pack: 'ai'
+    link: https://www.researchgate.net/profile/Cicero_Lima6
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: https://drive.google.com/file/d/0B6THk1OvKyjGX2dXb2RsT0NGYm8/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'czlima@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cicero Lima is a DSc in Applied Economics who recently finished a two-year postdoc at Purdue University - Global Trade Analysis Project (GTAP), USA. Cicero's most recent research has focused on how heat stress on agricultural works exacerbates crops impacts of climate change. Also, his research focus on macroeconomic consequences of enhanced biodiversity and ecosystem services, such as pollination, sea-level raise, water scarcity. He co-developed the Simplified International Model of agricultural Prices, Land use and the Environment for Brazil (SIMPLE-BR and the SIMPLE-G-Brazil) a computational economic model of global agriculture which he extensively use in his research. The same way, he developed the Brazilian Economic Analysis (BREA) a general equilibrium model of Brazilian economy and agriculture. He has international experience working on several projects for WWF-UK, World Bank, Central Bank in Brazil, EMBRAPA-SRUC (Edinburgh), IDB. Currently, he is research economist in the Project APEX-Brazil/MRE and FGV/EESP. Also he is a research economist at the Observatory of Knowledge and Innovation in Bioeconomy at FGV/EESP.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/0B6THk1OvKyjGX2dXb2RsT0NGYm8/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
