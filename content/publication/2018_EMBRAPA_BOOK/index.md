@@ -27,7 +27,7 @@ doi: ''
 publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: In **Sistemas de Integração Lavoura-Pecuária-Floresta no Brasil: Avaliação de impactos, adoção e estratégias regionais de transferência de tecnologia**
+publication: In **Sistemas de Integração Lavoura-Pecuária-Floresta no Brasil - Avaliação de impactos, adoção e estratégias regionais de transferência de tecnologia**
 publication_short: In press
 
 abstract: ...
