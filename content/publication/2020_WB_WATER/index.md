@@ -1,5 +1,5 @@
 ---
-title: 'Water in the Balance : The Economic Impacts of Climate Change and Water Scarcity in the Middle East'
+title: 'Water in the Balance - The Economic Impacts of Climate Change and Water Scarcity in the Middle East'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
