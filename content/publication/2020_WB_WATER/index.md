@@ -1,20 +1,26 @@
 ---
-title: 'Climate Impacts on Agriculture: Searching for Keys under the Streetlight'
+title: 'Water in the Balance : The Economic Impacts of Climate Change and Water Scarcity in the Middle East'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Thomas Hertel
+  - Farzad Taheripour
+  - Wallace E. Tyner
+  - Ehsanreza Sajedinia
+  - Angel Aguiar
+  - Maksym Chepeliev
+  - Erwin Corong
   - admin
+  - Iman Haqiqi
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2020-05-01'
-doi: 'https://doi.org/10.1016/j.foodpol.2020.101954'
+date: '2020-09-28'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -23,13 +29,13 @@ doi: 'https://doi.org/10.1016/j.foodpol.2020.101954'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In **Food Policy**, v. 95, August 2020, 101954
-publication_short: In **Food Policy**
+publication: In **World Bank**
+publication_short: In **Water in Balance**
 
-abstract: This paper provides a critical assessment of the literature estimating the consequences of climate impacts in agriculture and the food system. This literature focuses overwhelmingly on the impact of elevated CO2 concentrations in the atmosphere, higher temperatures and changing precipitation on staple crop yields. While critically important for food security, we argue that researchers have gravitated to measuring impacts ‘under the streetlight’ where data and models are plentiful. We argue that prior work has largely neglected the vast majority of potential economic impacts of climate change on agriculture. A broader view must extend the impacts analysis to inputs beyond land, including the consequences of climate change for labor productivity, as well as the rate of total factor productivity growth in the face of more rapidly depreciating knowledge capital. This broader view must also focus more attention on non-staple crops, which, while less important from a caloric point of view, are critically important in redressing current micronutrient deficiencies in many diets around the world. The paper closes with numerical simulations that demonstrate the extent to which limited input and output coverage of climate impacts can lead to considerable underestimation of the consequences for food security and economic welfare – particularly in the poorest regions of the world.
+abstract: Innovations in water management and irrigated agriculture powered water-scarce Middle Eastern economies for millennia. However, as water becomes scarcer because of population growth and economic development, and even more erratic because of climate change, the region’s water security is coming under increasing threat. This report applies an economic model, the Global Trade Analysis Project (GTAP) computable general equilibrium model, to assess the economic impacts of water scarcity for six Middle Eastern countries and also to examine how water-use efficiency improvements and trade can mitigate these impacts. A 20 percent reduction in water supply could decrease GDP by up to 10 percent, compared to 2016 levels. Furthermore, increased water scarcity could reduce labor demand by up to 12 percent and lead to significant land-use changes, including loss of beneficial hydrological services. The report emphasizes how the growing dependence on shared water resources reinforces the need to manage water across boundaries. The message is clear: unless new and transformative policies for sustainable, efficient and cooperative water management are promoted, water scarcity will negatively impact the region’s economic prospects and undermine its human and natural capital.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +50,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0306919220301585'
+url_pdf: 'https://openknowledge.worldbank.org/bitstream/handle/10986/34498/153087.pdf?sequence=1&isAllowed=y'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -56,7 +62,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'food_policy.jpg'
+  caption: ''
   focal_point: ''
   preview_only: false
 
