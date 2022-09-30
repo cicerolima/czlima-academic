@@ -1,15 +1,15 @@
 ---
-title: 'Redução de custos de transportes sobre a produção de soja. Uma aplicação de equilíbrio geral computável para as grandes regiões brasileiras'
+title: 'Finanças, Natureza e Transições Alimentares - Oportunidades para o sistema agro-alimentar brasileiro'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Raquel P. Pontes
-  - Márcio N. Barbosa
+  - Alexandre Koberle
+  - Angelo C. Gurgel
+  - Talita P. Pinto
   - admin
-  - Ian M. Trotter
-  - Gabrileito R. Menezes
+  - Karen R. Suassuna
 
 
 # Author notes (optional)
@@ -27,13 +27,13 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In **Planejamento e Políticas Públicas, n 62 (2022)**
-publication_short: In **PPP - IPEA**
+publication: In **Nature Finance**
+publication_short: In **F4B**
 
-abstract: O propósito deste artigo foi avaliar os impactos da redução do custo de transporte para o setor de soja nas regiões brasileiras. Para atingir o objetivo proposto, foi simulada uma melhoria no sistema de transportes nas regiões brasileiras sobre o setor de soja e os impactos nos principias blocos comerciais, utilizando-se o modelo Projeto de Análise de Equilíbrio Geral da Economia Brasileira (PAEG). Os resultados mostraram que há diferentes efeitos no setor do grão da soja e em indicadores econômicos para cada grande região brasileira; as regiões Sul e Centro-Oeste prevaleceram nos ganhos de produção e exportação do grão da soja. Os resultados, no geral, foram coerentes com a literatura, mostrando que uma redução no custo de transporte levaria a melhores resultados para o Brasil; no entanto, os estudos averiguados não consideraram a desigualdade entre as regiões brasileiras, sendo esta inovação um importante diferencial deste trabalho.
+abstract: A conjuntura social e econômica somada às já conhecidas demandas por uma produção de alimentos mais saudável e com impactos positivos para o clima e natureza tornam urgentes as transformações no sistema de produção agroalimentar, no qual o Brasil é protagonista. A boa notícia é que muitos dos múltiplos riscos enfrentados pelo sistema agroalimentar brasileiro podem ser mitigados, o que exige uma forte liderança política e engajamento do setor financeiro como investidor dessa cadeia de valor. Para saber mais, baixe o relatório completo aqui.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=6587'
+url_pdf: 'https://www.f4b-initiative.net/_files/ugd/643e85_f08bcde8792b444e9af2092d59d7487e.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

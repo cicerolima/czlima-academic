@@ -1,23 +1,22 @@
 ---
-title: 'Redução de custos de transportes sobre a produção de soja. Uma aplicação de equilíbrio geral computável para as grandes regiões brasileiras'
+title: 'Potencial de mitigação de gases de efeito estufa das ações de descarbonização da pecuária até 2030'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Raquel P. Pontes
-  - Márcio N. Barbosa
+  - Eduardo Assad
+  - Camila Estevam
   - admin
-  - Ian M. Trotter
-  - Gabrileito R. Menezes
-
+  - Eduardo Pavão
+  - Talita P. Pinto
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-09-29'
+date: '2021-11-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,13 +26,14 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In **Planejamento e Políticas Públicas, n 62 (2022)**
-publication_short: In **PPP - IPEA**
+publication: In **Observatório de Bioeconomia FGV**
+publication_short: In **OCBio - FGV**
 
-abstract: O propósito deste artigo foi avaliar os impactos da redução do custo de transporte para o setor de soja nas regiões brasileiras. Para atingir o objetivo proposto, foi simulada uma melhoria no sistema de transportes nas regiões brasileiras sobre o setor de soja e os impactos nos principias blocos comerciais, utilizando-se o modelo Projeto de Análise de Equilíbrio Geral da Economia Brasileira (PAEG). Os resultados mostraram que há diferentes efeitos no setor do grão da soja e em indicadores econômicos para cada grande região brasileira; as regiões Sul e Centro-Oeste prevaleceram nos ganhos de produção e exportação do grão da soja. Os resultados, no geral, foram coerentes com a literatura, mostrando que uma redução no custo de transporte levaria a melhores resultados para o Brasil; no entanto, os estudos averiguados não consideraram a desigualdade entre as regiões brasileiras, sendo esta inovação um importante diferencial deste trabalho.
+abstract: Este relatório tem como objetivo apresentar uma avaliação quantitativa do potencial de mitigação de Gases de Efeito Estufa (GEEs) gerado pelo incremento das tecnologias de recuperação de pastagens degradadas e sistemas de produção de Integração Lavoura-Pecuária-Floresta (ILPF) no Brasil até o ano de 2030. Para atingir esse objetivo foi desenvolvido um Modelo de projeção e mitigação para diferentes ações de descarbonização da pecuária, considerando um cenário de redução de pastagens degradadas e, consequente, incremento de áreas de sistemas de ILPF no país até o ano de 2030.
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=6587'
+url_pdf: 'https://eesp.fgv.br/sites/eesp.fgv.br/files/ocbio_potencial_de_mitigacao_de_gee_pecuaria_2112.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

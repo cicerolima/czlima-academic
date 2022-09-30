@@ -1,15 +1,12 @@
 ---
-title: 'Redução de custos de transportes sobre a produção de soja. Uma aplicação de equilíbrio geral computável para as grandes regiões brasileiras'
+title: 'PIB da Bioeconomia'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Raquel P. Pontes
-  - Márcio N. Barbosa
   - admin
-  - Ian M. Trotter
-  - Gabrileito R. Menezes
+  - Talita P. Pinto
 
 
 # Author notes (optional)
@@ -17,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-09-29'
+date: '2022-09-30'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,13 +24,13 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In **Planejamento e Políticas Públicas, n 62 (2022)**
-publication_short: In **PPP - IPEA**
+publication: In **Observatório de Bioeconomia da FGV**
+publication_short: In **OCBio - FGV**
 
-abstract: O propósito deste artigo foi avaliar os impactos da redução do custo de transporte para o setor de soja nas regiões brasileiras. Para atingir o objetivo proposto, foi simulada uma melhoria no sistema de transportes nas regiões brasileiras sobre o setor de soja e os impactos nos principias blocos comerciais, utilizando-se o modelo Projeto de Análise de Equilíbrio Geral da Economia Brasileira (PAEG). Os resultados mostraram que há diferentes efeitos no setor do grão da soja e em indicadores econômicos para cada grande região brasileira; as regiões Sul e Centro-Oeste prevaleceram nos ganhos de produção e exportação do grão da soja. Os resultados, no geral, foram coerentes com a literatura, mostrando que uma redução no custo de transporte levaria a melhores resultados para o Brasil; no entanto, os estudos averiguados não consideraram a desigualdade entre as regiões brasileiras, sendo esta inovação um importante diferencial deste trabalho.
+abstract: Esse relatório apresenta de forma detalhada a metodologia proposta para a determinação do Produto Interno Bruto da Bioeconomia no Brasil (PIB-Bio). Assim como na determinação de outras cadeias de produção, a bioeconomia possui ligações com todas as demais atividades econômicas, tanto a montante quanto a jusante na cadeia de produção. Assim, o PIB-Bio envolve os segmentos de insumos, a produção agregada da bioeconomia, processamento de bioinsumos (bioindústria) e, por fim, serviços de distribuição, transporte, comercialização até o consumidor final ou para atender a demanda de exportações. A bioeconomia compreende a produção a partir de recursos biológicos renováveis e a conversão desses recursos e resíduos em produtos de valor agregado como alimentos, rações, produtos biológicos e bioenergia. Em suma, a bioeconomia é operada pelas atividades de agricultura e pecuária, silvicultura, pesca, alimentos, produção de celulose e papel, bem como partes das indústrias de químicos, biotecnológica e energética.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=6587'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

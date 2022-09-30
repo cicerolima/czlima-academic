@@ -1,22 +1,20 @@
 ---
-title: 'Potencial de mitigação de gases de efeito estufa das ações de descarbonização da produção de soja até 2030'
+title: 'Projeções de Impactos dos Sistemas iLPF sobre Mudanças no Uso da Terra no Brasil'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Camila Estevam
   - admin
-  - Eduardo Pavão
-  - Eduardo Assad
-  - Talita P. Pinto
+  - Angelo C. Gurgel
+  - Joaguim J. M. Guilhoto
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-01-01'
+date: '2018-06-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,14 +24,13 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['4']
+publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: In **Observatório de Bioeconomia FGV**
-publication_short: In **OCBio - FGV**
+publication: In **Sistemas de Integração Lavoura-Pecuária-Floresta no Brasil: Avaliação de impactos, adoção e estratégias regionais de transferência de tecnologia**
+publication_short: In press
 
-abstract: O presente estudo tem por objetivo apresentar o potencial de mitigação de gases de efeito estufa (GEE) da soja brasileira cultivada sob o plantio direto (PD) e sistema de plantio direto (SPD). Visa também mensurar o incremento de remoção de carbono resultante da introdução do componente florestal em lavouras de soja por meio da implementação de sistema integração-lavoura-floresta (ILF) em diferentes cenários para o Brasil até 2030, sendo eles implementação de ILF em 10%, 20% e 30% da área total de soja ao final do período.
-
+abstract: ...
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://eesp.fgv.br/sites/eesp.fgv.br/files/2022.02.16_-_potencial_de_mitigacao_de_gases_de_efeito_estufa_das_acoes_de_descarbonizacao_da_soja_ate_2030.pdf'
+url_pdf: 'http://ainfo.cnptia.embrapa.br/digital/bitstream/item/212452/1/Skorupa-sistemas-integracao-2019.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
