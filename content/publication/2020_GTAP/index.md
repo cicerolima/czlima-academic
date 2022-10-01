@@ -1,24 +1,20 @@
 ---
-title: 'Heat stress on agricultural workers exacerbates crop impacts of climate change'
+title: 'Climate Impacts in Agriculture: A Broader View'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Jonathan Buzan
-  - Frances Moore
-  - Uris Baldos
-  - Matthew Huber
   - Thomas Hertel
+  - admin
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021-03-03'
-doi: 'https://doi.org/10.1088/1748-9326/abeb9f'
+date: '2020-05-15'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -27,13 +23,13 @@ doi: 'https://doi.org/10.1088/1748-9326/abeb9f'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In **Environmental Research Letters** 16, no. 4 (2021) 044020
-publication_short: In **Environmental Research Letters**
+publication: In **23rd Annual Conference on Global Economic Analysis (Virtual Conference)**
+publication_short: In **23rd GTAP Conference**
 
-abstract: The direct impacts of climate change on crop yields and human health are both well-studied, but the interaction between the two have received little attention. Here we analyze the consequences of global warming for agricultural workers and the crops they cultivate using a global economic model with explicit treatment of the physiological impacts of heat stress on humans' ability to work. The agricultural impacts literature has mostly focused on the effects of climate change on crop yields. However, we find that labor force impacts are equally important up to +3C warming, relative to the 1986-2005 baseline, and these overlooked impacts are dominant in Sub-Saharan Africa and Southeast Asia. In those regions, heat stress with 3C global warming could reduce labor capacity in agriculture by 30-50%, boosting food prices and requiring much higher levels of employment in the farm sector.
+abstract: This paper provides a critical assessment of the literature estimating the consequences of climate impacts in agriculture and the food system. This literature focuses overwhelmingly on the impact of elevated CO2 concentrations in the atmosphere, higher temperatures and changing precipitation on staple crop yields. While critically important for food security, we argue that researchers have gravitated to measuring impacts ‘under the streetlight’ where data and models are plentiful. We argue that prior work has largely neglected the vast majority of potential economic impacts of climate change on agriculture. A broader view must extend the impacts analysis to inputs beyond land, including the consequences of climate change for labor productivity, as well as the rate of total factor productivity growth in the face of more rapidly depreciating knowledge capital. This broader view must also focus more attention on non-staple crops, which, while less important from a caloric point of view, are critically important in redressing current micronutrient deficiencies in many diets around the world. The paper closes with numerical simulations that demonstrate the extent to which limited input and output coverage of climate impacts can lead to considerable underestimation of the consequences for food security and economic welfare – particularly in the poorest regions of the world.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,9 +44,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1088/1748-9326/abeb9f'
+url_pdf: 'https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=5736'
 url_code: ''
-url_dataset: 'https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=5736'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -79,3 +75,31 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
++++
+abstract = "This paper provides a critical assessment of the literature estimating the consequences of climate impacts in agriculture and the food system. This literature focuses overwhelmingly on the impact of elevated CO2 concentrations in the atmosphere, higher temperatures and changing precipitation on staple crop yields. While critically important for food security, we argue that researchers have gravitated to measuring impacts ‘under the streetlight’ where data and models are plentiful. We argue that prior work has largely neglected the vast majority of potential economic impacts of climate change on agriculture. A broader view must extend the impacts analysis to inputs beyond land, including the consequences of climate change for labor productivity, as well as the rate of total factor productivity growth in the face of more rapidly depreciating knowledge capital. This broader view must also focus more attention on non-staple crops, which, while less important from a caloric point of view, are critically important in redressing current micronutrient deficiencies in many diets around the world. The paper closes with numerical simulations that demonstrate the extent to which limited input and output coverage of climate impacts can lead to considerable underestimation of the consequences for food security and economic welfare – particularly in the poorest regions of the world."
+authors = ["Thomas W. Hertel", "Cicero Zanetti de Lima"]
+date = "2020-05-15"
+image_preview = ""
+math = true
+publication_types = ["1"]
+publication = "In *23rd Annual Conference on Global Economic Analysis (Virtual Conference)*"
+publication_short = "In *23rd GTAP Conference*"
+selected = false
+title = "Climate Impacts in Agriculture: A Broader View"
+#url_code = "#"
+#url_dataset = "#"
+url_pdf = ""
+#url_project = "project/deep-learning/"
+#url_slides = "#"
+#url_video = "#"
+
+#[[url_custom]]
+#name = "SOBER"
+#url = "http://www.sober.org.br"
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
+
++++
