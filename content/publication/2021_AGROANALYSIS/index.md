@@ -38,7 +38,7 @@ abstract: O agronegócio será um dos setores mais impactados com o aumento do I
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
