@@ -1,24 +1,22 @@
 ---
-title: 'Heat stress on agricultural workers exacerbates crop impacts of climate change'
+title: 'Margins of Adaptation to Human Heat Stress: Local, National, and Global Socioeconomic Responses'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Iman Haqiqi
+  - Thomas W. Hertel
   - admin
   - Jonathan Buzan
-  - Frances Moore
-  - Uris Baldos
-  - Matthew Huber
-  - Thomas Hertel
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021-03-03'
-doi: 'https://doi.org/10.1088/1748-9326/abeb9f'
+date: '2021-05-15'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -30,10 +28,10 @@ doi: 'https://doi.org/10.1088/1748-9326/abeb9f'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In **Environmental Research Letters** 16, no. 4 (2021) 044020
-publication_short: In **Environmental Research Letters**
+publication: In **24th Annual Conference on Global Economic Analysis (Virtual Conference)**
+publication_short: In **24th GTAP Conference**
 
-abstract: The direct impacts of climate change on crop yields and human health are both well-studied, but the interaction between the two have received little attention. Here we analyze the consequences of global warming for agricultural workers and the crops they cultivate using a global economic model with explicit treatment of the physiological impacts of heat stress on humans' ability to work. The agricultural impacts literature has mostly focused on the effects of climate change on crop yields. However, we find that labor force impacts are equally important up to +3C warming, relative to the 1986-2005 baseline, and these overlooked impacts are dominant in Sub-Saharan Africa and Southeast Asia. In those regions, heat stress with 3C global warming could reduce labor capacity in agriculture by 30-50%, boosting food prices and requiring much higher levels of employment in the farm sector.
+abstract: The majority of agricultural climate impact studies focus on crop yields, ignoring the impacts on labor productivity. The few studies on global labor productivity impacts of climate tend to ignore socioeconomic adaptations. This study provides a multi-scale and multi-sector analysis of how the socioeconomic system responds to lower labor capacity due to climate-induced heat stress. Combining the GTAP (Global Trade Analysis Project) framework with high-resolution projections of climate and population, we quantify the cascading economic impacts of heat stress as it alters labor capacity in both the agricultural and non-agricultural sectors. Then we investigate the role of different adaptation solutions at local, regional, and global scales. This includes investing in automation, changing production location, labor migration, domestic and international trade, and changes in patterns of consumption as well as in the changes in the structure of national economies.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,9 +46,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1088/1748-9326/abeb9f'
+url_pdf: 'https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=6303'
 url_code: ''
-url_dataset: 'https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=5736'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -79,3 +77,31 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
++++
+abstract = "The majority of agricultural climate impact studies focus on crop yields, ignoring the impacts on labor productivity. The few studies on global labor productivity impacts of climate tend to ignore socioeconomic adaptations. This study provides a multi-scale and multi-sector analysis of how the socioeconomic system responds to lower labor capacity due to climate-induced heat stress. Combining the GTAP (Global Trade Analysis Project) framework with high-resolution projections of climate and population, we quantify the cascading economic impacts of heat stress as it alters labor capacity in both the agricultural and non-agricultural sectors. Then we investigate the role of different adaptation solutions at local, regional, and global scales. This includes investing in automation, changing production location, labor migration, domestic and international trade, and changes in patterns of consumption as well as in the changes in the structure of national economies."
+authors = ["Iman Haqiqi", "Thomas W. Hertel", "Cicero Zanetti de Lima", "Jonathan Buzan"]
+date = "2021-05-15"
+image_preview = ""
+math = true
+publication_types = ["1"]
+publication = "In *24th Annual Conference on Global Economic Analysis (Virtual Conference)*"
+publication_short = "In *24th GTAP Conference*"
+selected = false
+title = "Margins of Adaptation to Human Heat Stress: Local, National, and Global Socioeconomic Responses"
+#url_code = "#"
+#url_dataset = "#"
+url_pdf = "https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=6303"
+#url_project = "project/deep-learning/"
+#url_slides = "#"
+#url_video = "#"
+
+#[[url_custom]]
+#name = "SOBER"
+#url = "http://www.sober.org.br"
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
+
++++

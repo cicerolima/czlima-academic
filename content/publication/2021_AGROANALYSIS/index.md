@@ -1,16 +1,13 @@
 ---
-title: 'Heat stress on agricultural workers exacerbates crop impacts of climate change'
+title: 'Mais perdedores do que ganhadores com o aumento do ICMS em São Paulo'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Talita P. Pinto
   - admin
-  - Jonathan Buzan
-  - Frances Moore
-  - Uris Baldos
-  - Matthew Huber
-  - Thomas Hertel
+  - Angelo C. Gurgel
 
 # Author notes (optional)
 #author_notes:
@@ -30,10 +27,10 @@ doi: 'https://doi.org/10.1088/1748-9326/abeb9f'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In **Environmental Research Letters** 16, no. 4 (2021) 044020
-publication_short: In **Environmental Research Letters**
+publication: In **AGROANALYSIS (FGV)**, v. 41, n. 1, p. 22, 2021
+publication_short: In **AGROANALYSIS (FGV)**
 
-abstract: The direct impacts of climate change on crop yields and human health are both well-studied, but the interaction between the two have received little attention. Here we analyze the consequences of global warming for agricultural workers and the crops they cultivate using a global economic model with explicit treatment of the physiological impacts of heat stress on humans' ability to work. The agricultural impacts literature has mostly focused on the effects of climate change on crop yields. However, we find that labor force impacts are equally important up to +3C warming, relative to the 1986-2005 baseline, and these overlooked impacts are dominant in Sub-Saharan Africa and Southeast Asia. In those regions, heat stress with 3C global warming could reduce labor capacity in agriculture by 30-50%, boosting food prices and requiring much higher levels of employment in the farm sector.
+abstract: O agronegócio será um dos setores mais impactados com o aumento do Imposto sobre Circulação de Mercadorias e Serviços (ICMS), medida esta tomada pelo governo do estado de São Paulo para reduzir o rombo nas contas públicas causado pela pandemia de COVID-19. O Centro de Agronegócio da Fundação Getulio Vargas (FGV Agro) estima que a decisão causará uma perda de consumo de até BRL 21,4 bilhões em bens e serviços e uma redução de BRL 6,8 bilhões no Produto Interno Bruto (PIB) da região Sudeste.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,9 +45,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1088/1748-9326/abeb9f'
+url_pdf: 'uploads/2021_01_ICMS.pdf'
 url_code: ''
-url_dataset: 'https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=5736'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
