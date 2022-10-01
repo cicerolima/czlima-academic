@@ -7,7 +7,7 @@ title: 'Projeções de Impactos dos Sistemas iLPF sobre Mudanças no Uso da Terr
 authors:
   - admin
   - Angelo C. Gurgel
-  - Joaguim J. M. Guilhoto
+  - Joaquim J. M. Guilhoto
 
 # Author notes (optional)
 #author_notes:

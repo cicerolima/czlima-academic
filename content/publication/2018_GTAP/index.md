@@ -1,24 +1,20 @@
 ---
-title: 'Heat stress on agricultural workers exacerbates crop impacts of climate change'
+title: 'The role of double cropping modeling for policy assessment in Brazil'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Jonathan Buzan
-  - Frances Moore
-  - Uris Baldos
-  - Matthew Huber
-  - Thomas Hertel
+  - Angelo C. Gurgel
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021-03-03'
-doi: 'https://doi.org/10.1088/1748-9326/abeb9f'
+date: '2018-05-23'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -27,13 +23,13 @@ doi: 'https://doi.org/10.1088/1748-9326/abeb9f'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In **Environmental Research Letters** 16, no. 4 (2021) 044020
-publication_short: In **Environmental Research Letters**
+publication: In **21th Annual Conference on Global Economic Analysis GTAP**
+publication_short: In **21th GTAP Conference**
 
-abstract: The direct impacts of climate change on crop yields and human health are both well-studied, but the interaction between the two have received little attention. Here we analyze the consequences of global warming for agricultural workers and the crops they cultivate using a global economic model with explicit treatment of the physiological impacts of heat stress on humans' ability to work. The agricultural impacts literature has mostly focused on the effects of climate change on crop yields. However, we find that labor force impacts are equally important up to +3C warming, relative to the 1986-2005 baseline, and these overlooked impacts are dominant in Sub-Saharan Africa and Southeast Asia. In those regions, heat stress with 3C global warming could reduce labor capacity in agriculture by 30-50%, boosting food prices and requiring much higher levels of employment in the farm sector.
+abstract: Double cropping (DC) means planting several crops in the same area and crop-year. For the Brazilian case the DC of soybean and maize has relative importance for recent dynamic land-use changes, especially in the North (Amazon biome) and MATOPIBA (Cerrado biome) regions. Since there is a knowledge gap in how is the better way to represent DC in a CGE framework we develop an explicit representation of DC adding light to this discussion. The area allocated to second crop of maize is dependent of the soybean production, i.e, as the area of soybean expands the area available for second crop of maize also expands. Under a simulated scenario of increased demand of soybean and maize the DC approach reduces the projected indirect land use change (iLUC) in 28% in Brazil as a whole compared a scenario where DC is not explicitly represented. At regional level, the projected iLUC reaches 44% and 38% for North and MATOPIBA regions, respectively. It means that exploiting the large area that has potential for double-cropping in Brazil coulbe be a sustainable path to increase agricultural production without further land conversion.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,9 +44,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1088/1748-9326/abeb9f'
+url_pdf: 'https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=5606'
 url_code: ''
-url_dataset: 'https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=5736'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
