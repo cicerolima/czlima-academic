@@ -1,5 +1,5 @@
 ---
-title: 'Implications of biofuel production on direct and indirect land use change: Evidence from Brazil'
+title: 'Implications of biofuel production on direct and indirect land use change - Evidence from Brazil'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
