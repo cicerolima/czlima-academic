@@ -29,7 +29,7 @@ doi: ''
 publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: **Biofuels, Bioenergy and Food Security**
+publication: In **Biofuels, Bioenergy and Food Security**
 publication_short: **In press**
 
 abstract: Land use change, its drivers, and its consequences have been discussed for a long time. Drivers such as increases in human population with additional needs for food, changes in the types of food as wealth and urbanization rates increase, demand for energy and fiber, and enhanced transportation and the development of roads have all been cited (among others) as causes of deforestation. Biofuels have gained notoriety in driving land use change and have also been singled out as an important source of deforestation, as grains and oils traditionally used for food are diverted toward bioenergy, spurring the need to expand production to satisfy nutritional requirements. Additional production can be attained by increasing the amount of land used by obtaining higher yields per unit of land or by a combination of the two.
