@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Reunião CONIC - FIESP
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Reunião na FIESP
+event_url: https://www.fiesp.com.br/noticias/inovar-demanda-planejamento-e-investimento-afirmam-especialistas/
 
 location: Wowchemy HQ
 address:
