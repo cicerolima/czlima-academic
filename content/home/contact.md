@@ -17,10 +17,10 @@ content:
 
   # Email form provider
   form:
-    provider: formspree.io
-    formspree: czlima@gmail.com
-#      id:
-#    netlify:
+    provider: formspree
+    formspree:
+    id:
+    netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
