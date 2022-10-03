@@ -19,8 +19,8 @@ content:
   form:
     provider: formspree.io
     formspree: czlima@gmail.com
-      id:
-    netlify:
+#      id:
+#    netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
