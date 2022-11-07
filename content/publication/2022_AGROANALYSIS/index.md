@@ -1,15 +1,12 @@
 ---
-title: 'Redução de custos de transportes sobre a produção de soja. Uma aplicação de equilíbrio geral computável para as grandes regiões brasileiras'
+title: 'CADEIA DE VALOR DA BIOECONOMIA COMO ESTRATÉGIA DE DESENVOLVIMENTO ECONÔMICO'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Raquel P. Pontes
-  - Márcio N. Barbosa
+  - Talita Priscila Pinto
   - admin
-  - Ian M. Trotter
-  - Gabrileito R. Menezes
 
 
 # Author notes (optional)
@@ -17,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-09-29'
+date: '2022-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,10 +27,10 @@ doi: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In **Planejamento e Políticas Públicas, n 62 (2022)**
-publication_short: In **PPP - IPEA**
+publication: In **Agroanalysis, vol 42, n 11 (2022)**
+publication_short: In **FGV Agroanalysis**
 
-abstract: O propósito deste artigo foi avaliar os impactos da redução do custo de transporte para o setor de soja nas regiões brasileiras. Para atingir o objetivo proposto, foi simulada uma melhoria no sistema de transportes nas regiões brasileiras sobre o setor de soja e os impactos nos principias blocos comerciais, utilizando-se o modelo Projeto de Análise de Equilíbrio Geral da Economia Brasileira (PAEG). Os resultados mostraram que há diferentes efeitos no setor do grão da soja e em indicadores econômicos para cada grande região brasileira; as regiões Sul e Centro-Oeste prevaleceram nos ganhos de produção e exportação do grão da soja. Os resultados, no geral, foram coerentes com a literatura, mostrando que uma redução no custo de transporte levaria a melhores resultados para o Brasil; no entanto, os estudos averiguados não consideraram a desigualdade entre as regiões brasileiras, sendo esta inovação um importante diferencial deste trabalho.
+abstract: A produção da bioeconomia através da utilização de recursos biológicos e biomassa para a produção de alimentos, rações, produtos biológicos, bioenergia entre outros, equivale a 19,6% do PIB brasileiro. O PIB da Bioeconomia (PIB-Bio) somou R$ 1,447 trilhão em 2019 e apresenta um grande potencial de crescimento, entretanto precisa estar associado à governança ambiental, tecnologia e inovação.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -41,14 +38,14 @@ abstract: O propósito deste artigo foi avaliar os impactos da redução do cust
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=6587'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
