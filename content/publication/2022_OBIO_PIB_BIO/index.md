@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://eesp.fgv.br/sites/eesp.fgv.br/files/eesp_relatorio_pib-pt-br-sem_marca-de-corte_ap1_v2.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

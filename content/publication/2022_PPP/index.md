@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=6587'
+url_pdf: 'https://www.ipea.gov.br/ppp/index.php/PPP/article/view/1472/654'
 url_code: ''
 url_dataset: ''
 url_poster: ''
