@@ -42,7 +42,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
+# - name: Custom Linkk
 #   url: http://example.org
 
 url_pdf: 'uploads/2021_01_ICMS.pdf'
