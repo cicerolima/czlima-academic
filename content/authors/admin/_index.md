@@ -14,7 +14,7 @@ role: Research Economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sao Paulo School of Economics - FGV-EESP
+  - name: Fundacao Getulio Vargas - FGV
     url: https://eesp.fgv.br/centros/observatorios/bioeconomia
 
 # Short bio (displayed in user profile at end of posts)
@@ -80,6 +80,6 @@ email: 'czlima@gmail.com'
 highlight_name: true
 ---
 
-Cicero Lima is a DSc in Applied Economics who recently finished a two-year postdoc at Purdue University - Global Trade Analysis Project (GTAP), USA. Cicero's most recent research has focused on how heat stress on agricultural works exacerbates crops impacts of climate change. Also, his research focus on macroeconomic consequences of enhanced biodiversity and ecosystem services, such as pollination, sea-level raise, water scarcity. He co-developed the Simplified International Model of agricultural Prices, Land use and the Environment for Brazil (SIMPLE-BR and the SIMPLE-G-Brazil) a computational economic model of global agriculture which he extensively use in his research. The same way, he developed the Brazilian Economic Analysis (BREA) a general equilibrium model of Brazilian economy and agriculture. He has international experience working on several projects for WWF-UK, World Bank, Central Bank in Brazil, EMBRAPA-SRUC (Edinburgh), IDB. Currently, he is research economist in the Project APEX-Brazil/MRE and FGV/EESP. Also he is a research economist at the Observatory of Knowledge and Innovation in Bioeconomy at FGV/EESP.
+Cicero Lima is a DSc in Applied Economics who recently finished a two-year postdoc at Purdue University - Global Trade Analysis Project (GTAP), USA. Cicero's most recent research has focused on how heat stress on agricultural works exacerbates crops impacts of climate change. Also, his research focus on macroeconomic consequences of enhanced biodiversity and ecosystem services, such as pollination, sea-level raise, water scarcity. He co-developed the Simplified International Model of agricultural Prices, Land use and the Environment for Brazil (SIMPLE-BR and the SIMPLE-G-Brazil) a computational economic model of global agriculture which he extensively use in his research. The same way, he developed the Brazilian Economic Analysis (BREA) a general equilibrium model of Brazilian economy and agriculture. He has international experience working on several projects for WWF-UK, World Bank, Central Bank in Brazil, EMBRAPA-SRUC (Edinburgh), IDB. Currently, he is research economist at the Observatory of Knowledge and Innovation in Bioeconomy at FGV.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/0B6THk1OvKyjGX2dXb2RsT0NGYm8/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.

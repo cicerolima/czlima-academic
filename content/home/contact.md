@@ -28,15 +28,15 @@ content:
   email: czlima@gmail.com
   phone: +55 (11) 98812 5537
   address:
-    street: 474 Itapeva St
+    street: 542 Paulista Avenue 3rd floor
     city: Sao Paulo
     region: SP
-    postcode: '01332-000'
+    postcode: '01310-00'
     country: Brazil
     country_code: BRA
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '-23.56760653263792'
+    longitude: '-46.64830555633935'
   directions: 6th Floor
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
