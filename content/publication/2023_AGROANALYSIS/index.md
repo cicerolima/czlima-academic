@@ -41,7 +41,7 @@ tem a UE como o segundo principal destino das suas exportações.
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
