@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research economist
-    company: Bioeconomy Observatory - FGV-EESP
+    company: Bioeconomy Observatory - FGV
     company_url: 'https://eesp.fgv.br/centros/observatorios/bioeconomia'
     #company_logo: org-OCBio
     location: Sao Paulo, SP, Brazil
@@ -119,7 +119,6 @@ experience:
     date_start: '2008-06-30'
     date_end: '2009-04-01'
     description: Taught Introduction to Economics for BSc in Economics.
-
 
 design:
   columns: '2'

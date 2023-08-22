@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: czlima@gmail.com
+  email: cicero.lima@fgv.br
   phone: +55 (11) 98812 5537
   address:
     street: 542 Paulista Avenue 3rd floor
