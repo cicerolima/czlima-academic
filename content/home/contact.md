@@ -38,6 +38,7 @@ content:
     latitude: '-23.56760653263792'
     longitude: '-46.64830555633935'
   directions: ''
+
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'

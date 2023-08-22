@@ -54,7 +54,7 @@ experience:
     #company_logo: org-EMBRAPA
     location: Campinas, SP, Brazil
     date_start: '2021-06-01'
-    date_end: ''
+    date_end: '2023-08-22'
     description: External consultant under PRS-Cerrado IABS-IADB and EMBRAPA.
 
   - title: Short-term research economist
