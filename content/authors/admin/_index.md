@@ -15,7 +15,7 @@ role: Research Economist
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Fundacao Getulio Vargas - FGV
-    url: https://eesp.fgv.br/centros/observatorios/bioeconomia
+    url: https://agro.fgv.br/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,9 +25,9 @@ interests:
   - Agricultural economics
   - Computable general equilibrium models
   - Land-use and land-use changes
-  - Heat stress and climate change
+  - Bioeconomy pathways
   - GHG emissions
-  - Biofuels pathways
+  - Global change
 
 # Education to show in About widget
 education:
