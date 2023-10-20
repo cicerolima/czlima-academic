@@ -37,7 +37,7 @@ abstract: A Reforma Tributária busca simplificar o complexo sistema tributário
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
