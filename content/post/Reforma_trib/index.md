@@ -38,8 +38,6 @@ categories:
   - Demo
 ---
 
-## Overview
-
 A Proposta de Emenda Constitucional (PEC) que busca reduzir a complexidade do sistema tributário brasileiro – a chamada Reforma Tributária (RT) – têm gerado um grande debate político, setorial e na sociedade civil em geral. Positivamente, as duas propostas (PEC 45/2019 e PEC 110/2019) que estavam em discussão na Câmara dos Deputados e Senado Federal (ver box) têm uma base ampla de abrangência de bens e serviços, com legislação e alíquota uniforme em todo o Brasil e vedam, portanto, cobrança no destino de consumo, concessão de benefícios fiscais e prazos - situação que assolou diversos Estados durante os anos 90 e 2000 para atração de investimentos. Negativamente, cada PEC apresenta um prazo diferente de transição e o mais importante: ainda não se sabe qual será o valor das alíquotas.
 Diversos estudos e análises indicam alíquotas de 25% no modelo da PEC 45/2019 e de mais de 26% para a PEC 110/2019. Recentemente, um novo estudo aponta que a alíquota pode chegar a mais de 28%, colocando o Brasil como o país com a maior alíquota de IVA do planeta.
 No dia 7 de julho de 2023, a Câmara dos Deputados aprovou o texto previsto na PEC 45 que agora está em apreciação no Senado Federal. Vejamos alguns pontos aprovados.
@@ -49,7 +47,7 @@ Para ajudar a entender os impactos dessa diferenciação de alíquotas, o Centro
 Outro resultado fundamental é o da cesta básica: zerar os impostos desse grupo gera quase 20 p.p. de queda no custo real dos alimentos para a população com a implementação total da RT – o cenário com alíquota 25% sem diferenciação gera um aumento de 4,9% nos preços da cesta básica, enquanto o preço cai 13,9% no cenário com diferenciação.
 
 
-## O cenário internacional
+# O cenário internacional
 Uma política tributária, como a RT, afeta a competitividade da agropecuária através de impactos sobre custos e renda das atividades, investimentos em terra e tecnologia, uso de insumos e até mesmo a adoção de práticas de manejo sustentável da produção. Sabendo isso, diversos países do mundo, que adotam alíquota do tipo IVA, também adotam alíquotas diferenciadas para a produção agropecuária, seus insumos, bem como alimentos e bebidas (Tabela 1).
 Segundo a OCDE (Organização para a Cooperação e o Desenvolvimento Econômico) países que não praticam diferenciação dos produtos agropecuários são exceção, como é o caso do Chile, Dinamarca, Estônia, Japão e Nova Zelândia. Ou seja, os grandes competidores do Brasil em mercados internacionais não estão nesta lista de exceção.
 Como constatado no estudo do FGV Agro, a redução de alíquota reduz a pressão de aumento dos preços da produção e ainda pode aumentar a demanda para os produtores. Ao mesmo tempo, os consumidores são os principais beneficiários desse tipo de política de diferenciação.  
