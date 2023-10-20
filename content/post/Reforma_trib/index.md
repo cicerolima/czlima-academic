@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: '/content/publication/2023_AGROANALYSIS_RT/featured.png'
+  caption: 'Reforma tributária e unificação de impostos'
   focal_point: ''
   placement: 2
   preview_only: false
