@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-08-29'
+date: '2023-09-11'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -23,10 +23,10 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In **Agroanalysis, vol x, n x (2023)**
+publication: In **Agroanalysis, vol 49, n 9 (2023)**
 publication_short: In **FGV Agroanalysis**
 
 abstract: A Reforma Tributária busca simplificar o complexo sistema tributário do Brasil, substituindo cinco impostos por apenas um novo tributo sobre o valor adicionado (IVA). O principal desafio é encontrar a alíquota ideal para um sistema tributário equilibrado, justo e competitivo. Estudo realizado pelo Centro de Estudos do Agronegócio da FGV (FGV Agro) aponta que a adoção uma alíquota reduzida para algumas atividades – entre elas produtos e insumos do agro – é fundamental para manutenção da produção, demanda e competitividade das cadeias agropecuárias. Como exemplo, zerar os impostos sobre a cesta básica gera quase 20 p.p. de queda no custo real dos alimentos para a população.
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://periodicos.fgv.br/agroanalysis/issue/view/5069/2784'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-05-10'
+date: '2023-06-02'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,9 @@ publication_types: ['2']
 publication: In **Agroanalysis, vol 43, n 5 (2023)**
 publication_short: In **FGV Agroanalysis**
 
-abstract: xxx
+abstract: O Parlamento Europeu aprova medidas que buscam combater o desmatamento e reduzir a emissão de gases do efeito estufa (GEE) em bens e produtos consumidos pela União Europeia (UE). A nova legislação traz impactos
+diretos sobre as exportações brasileiras para o bloco europeu, em especial sobre o agronegócio brasileiro, que
+tem a UE como o segundo principal destino das suas exportações.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
