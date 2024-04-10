@@ -1,5 +1,5 @@
 ---
-title: 'CAPITAL VERDE - NOVA DINÂMICA DE COMPETITIVIDADE INTERNACIONAL'
+title: 'CAPITAL VERDE - NNOVA DINÂMICA DE COMPETITIVIDADE INTERNACIONAL'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
