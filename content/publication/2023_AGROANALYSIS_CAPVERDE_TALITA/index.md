@@ -32,10 +32,7 @@ publication_types: ['2']
 publication: In **Agroanalysis, vol 43, n 11 (2023)**
 publication_short: In **FGV Agroanalysis**
 
-abstract:  O fator verde pode captar diferentes fontes de valor da bioeconomia. A expectativa global é de que o avanço da
-transição climática do Planeta consolide a influência do fator verde no arranjo da economia global. A tendência é a
-internalização dos custos climáticos e ambientais nos negócios, na gestão dos países, no comércio e na geopolítica.
-Países com economias baseadas em degradação ambiental tendem a enfrentar restrições ao crescimento, enquanto investimentos financeiros e consumidores exigentes tendem a perseguir atividades e produtos sustentáveis.
+abstract: O fator verde pode captar diferentes fontes de valor da bioeconomia. A expectativa global é de que o avanço da transição climática do Planeta consolide a influência do fator verde no arranjo da economia global. A tendência é a internalização dos custos climáticos e ambientais nos negócios, na gestão dos países, no comércio e na geopolítica. Países com economias baseadas em degradação ambiental tendem a enfrentar restrições ao crescimento, enquanto investimentos financeiros e consumidores exigentes tendem a perseguir atividades e produtos sustentáveis.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
