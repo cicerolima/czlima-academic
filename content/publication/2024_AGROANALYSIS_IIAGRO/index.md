@@ -29,11 +29,7 @@ publication_types: ['2']
 publication: In **Agroanalysis, vol 44, n 2 (2024)**
 publication_short: In **FGV Agroanalysis**
 
-abstract:  Entre 2000 e 2010, a participação do Brasil em volume mundialmente exportado cresceu a incríveis 4,2%
-a.a. e em valor a 5,7% a.a. Já entre 2011 e 2022, o crescimento da participação em volume recuou para 2,4%
-a.a., enquanto, em valor, ficou estável a 0,1% a.a. Em outras palavras, a manutenção da inserção internacional
-do agronegócio deu-se muito mais pela sua capacidade de produção e intensificação do que por condições
-externas de demanda ou aumento dos preços.
+abstract:  Entre 2000 e 2010, a participação do Brasil em volume mundialmente exportado cresceu a incríveis 4,2% a.a. e em valor a 5,7% a.a. Já entre 2011 e 2022, o crescimento da participação em volume recuou para 2,4% a.a., enquanto, em valor, ficou estável a 0,1% a.a. Em outras palavras, a manutenção da inserção internacional do agronegócio deu-se muito mais pela sua capacidade de produção e intensificação do que por condições externas de demanda ou aumento dos preços.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

@@ -29,12 +29,7 @@ publication_types: ['2']
 publication: In **Agroanalysis, vol 44, n 4 (2024)**
 publication_short: In **FGV Agroanalysis**
 
-abstract: Reunidos em uma manifestação promovida pela FAEMG no mês passado, os produtores de leite mineiros
-reivindicaram o fim da concorrência desleal entre o Brasil, o Uruguai e a Argentina, especialmente, quanto ao
-leite em pó. Aponta-se que o governo argentino tem aplicado subsídios ao produto que configuram uma prática
-protecionista. Para lidar com essa questão, não basta que o governo mineiro retire as condições especiais de
-tributação das importadoras de leite. É preciso estruturar ações tecnológicas, logísticas e tributárias que for
-taleçam a produção nacional, potencializando os diferenciais do leite brasileiro em relação ao leite importado.
+abstract: Reunidos em uma manifestação promovida pela FAEMG no mês passado, os produtores de leite mineiros reivindicaram o fim da concorrência desleal entre o Brasil, o Uruguai e a Argentina, especialmente, quanto ao leite em pó. Aponta-se que o governo argentino tem aplicado subsídios ao produto que configuram uma prática protecionista. Para lidar com essa questão, não basta que o governo mineiro retire as condições especiais de tributação das importadoras de leite. É preciso estruturar ações tecnológicas, logísticas e tributárias que fortaleçam a produção nacional, potencializando os diferenciais do leite brasileiro em relação ao leite importado.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

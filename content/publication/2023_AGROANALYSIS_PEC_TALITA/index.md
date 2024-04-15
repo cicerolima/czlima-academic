@@ -31,13 +31,7 @@ publication_types: ['2']
 publication: In **Agroanalysis, vol 43, n 12 (2023)**
 publication_short: In **FGV Agroanalysis**
 
-abstract:  No Brasil, métricas como “cabeças por hectare” são comumente utilizadas para medir a produtividade do
-segmento. No entanto, essa unidade de medida desconsidera o efeito do desempenho animal (quantidade
-de carne por animal), estando, portanto, em desacordo com a literatura científica. Além disso, a dinâmica da
-cadeia produtiva dificulta a rastreabilidade, que permitiria que essas medidas fossem feitas de forma mais
-precisa em larga escala. Os consumidores no mercado interno, em sua maioria, apresentam um nível mais
-baixo de renda e pouca disposição para pagar mais em função da qualidade e da origem da carne, o que gera
-um desestímulo ao uso de instrumentos de monitoramento e rastreabilidade.
+abstract: No Brasil, métricas como “cabeças por hectare” são comumente utilizadas para medir a produtividade do segmento. No entanto, essa unidade de medida desconsidera o efeito do desempenho animal (quantidade de carne por animal), estando, portanto, em desacordo com a literatura científica. Além disso, a dinâmica da cadeia produtiva dificulta a rastreabilidade, que permitiria que essas medidas fossem feitas de forma mais precisa em larga escala. Os consumidores no mercado interno, em sua maioria, apresentam um nível mais baixo de renda e pouca disposição para pagar mais em função da qualidade e da origem da carne, o que gera um desestímulo ao uso de instrumentos de monitoramento e rastreabilidade.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
